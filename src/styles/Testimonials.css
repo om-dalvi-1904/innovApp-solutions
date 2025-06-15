@@ -146,6 +146,7 @@
   
   .testimonial-container {
     height: 400px;
+    margin: 0 45px;
   }
   
   .testimonial-content {
@@ -159,13 +160,18 @@
   .slider-arrow {
     width: 40px;
     height: 40px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
   }
   
   .prev {
-    margin-right: 10px;
+    left: -45px;
+    margin-right: 0;
   }
   
   .next {
-    margin-left: 10px;
+    right: -45px;
+    margin-left: 0;
   }
 }
