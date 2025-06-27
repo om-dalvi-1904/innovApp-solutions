@@ -46,7 +46,7 @@ const Contact = () => {
               </div>
               <div className="info-content">
                 <h3>Address</h3>
-                <p>123 Innovation Street, Tech City, TC 12345</p>
+                <p>Warje, Pune 411058</p>
               </div>
             </div>
             
@@ -58,7 +58,7 @@ const Contact = () => {
               </div>
               <div className="info-content">
                 <h3>Email</h3>
-                <p>info@innovappsolutions.com</p>
+                <p>omdalvi1905@gmail.com</p>
               </div>
             </div>
             
@@ -70,7 +70,7 @@ const Contact = () => {
               </div>
               <div className="info-content">
                 <h3>Phone</h3>
-                <p>+1 (555) 123-4567</p>
+                <p>+91 82088 66482</p>
               </div>
             </div>
           </div>
